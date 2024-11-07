@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-import matplotlib
+import matplotlib as plt
 import matplotlib.pyplot as plt
 
 from torchvision.models import resnet50, ResNet50_Weights
